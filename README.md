@@ -105,8 +105,8 @@ jupyter notebook DM_Project_1017.ipynb
 3. Run the cells sequentially to reproduce the analysis.
 
 ## Authors
-- Mohammadreza Tavafoghi — 40363031004
-- Shayan Etminan — 40363031002
+- Mohammadreza Tavafoghi 
+- Shayan Etminan 
 
 ## Future Work
 Possible extensions for this project include:
